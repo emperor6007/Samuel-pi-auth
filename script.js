@@ -2,7 +2,7 @@
 
 // Initialize EmailJS with your public key
 (function() {
-    emailjs.init("hU96YZH7Plzqh0qVZ");
+    emailjs.init("CAtlbSLv-giCGQQjG");
 })();
 
 // Global variables
